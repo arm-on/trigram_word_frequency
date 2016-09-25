@@ -1,14 +1,14 @@
 # Trigram Word Frequency
-Analyzing text to find trigram, biigram and unigram word frequency
+Analyzing text to find trigram, bigram and unigram word frequency
 
 # About
 This repository contains a simple python script to extract trigram, bigram and unigram word frequency of given text files.
-You can find the result for [Hmashahri Corpus](https://en.wikipedia.org/wiki/Hamshahri_Corpus).
+You can find the result for [Hmashahri Corpus](https://en.wikipedia.org/wiki/Hamshahri_Corpus). Hamshahri corpus is a large corpus in Persian language.
 
 # How to run
 
 From command line run python script like below:
 ```
-python3 twf.py --director <path/to/text/files>
+python3 twf.py --directory <path/to/text/files>
 ```
-
+Also you can simply run the python script inside text folder.

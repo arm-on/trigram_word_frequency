@@ -12,3 +12,6 @@ From command line run python script like below:
 python3 twf.py --directory <path/to/text/files>
 ```
 Also you can simply run the python script inside text folder.
+
+# Other Resources for Persian
+[Resources for Persian] https://www.aclweb.org/aclwiki/index.php?title=Resources_for_Persian
